@@ -1,0 +1,9 @@
+or information on what the different operators do, the section in the "Python
+Language Reference" titled "Special method names" may be of help:
+http://docs.python.org/2/reference/datamodel.html#special­method­names
+The following table summarizes the operator precedences in Python, from lowest
+precedence (least binding) to highest precedence (most binding). Operators on the
+same line have the same precedence. Unless the syntax is explicitly given,
+operators are binary. Operators on the same line group left to right (except for
+comparisons, including tests, which all have the same precedence and chain from
+left to right ­­ see section 5.9 ­­ and exponentiation, which groups from right to left):
